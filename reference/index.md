@@ -40,6 +40,8 @@
   : NNS SD-based Clustering
 - [`NNS.SD.efficient.set()`](https://OVVO-Financial.github.io/NNS/reference/NNS.SD.efficient.set.md)
   : NNS SD Efficient Set
+- [`NNS.SS()`](https://OVVO-Financial.github.io/NNS/reference/NNS.SS.md)
+  : NNS Stochastic Superiority
 - [`NNS.SSD()`](https://OVVO-Financial.github.io/NNS/reference/NNS.SSD.md)
   : NNS SSD Test
 - [`NNS.SSD.uni()`](https://OVVO-Financial.github.io/NNS/reference/NNS.SSD.uni.md)
@@ -84,8 +86,6 @@
   : NNS Seasonality Test
 - [`NNS.stack()`](https://OVVO-Financial.github.io/NNS/reference/NNS.stack.md)
   : NNS Stack
-- [`NNS.term.matrix()`](https://OVVO-Financial.github.io/NNS/reference/NNS.term.matrix.md)
-  : NNS Term Matrix
 - [`NNS_bin()`](https://OVVO-Financial.github.io/NNS/reference/NNS_bin.md)
   : Fast binning of numeric vector into equidistant bins
 - [`PM.matrix()`](https://OVVO-Financial.github.io/NNS/reference/PM.matrix.md)
